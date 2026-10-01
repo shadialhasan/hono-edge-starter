@@ -3,11 +3,11 @@
 > **Topics:** `hono` `cloudflare-workers` `edge-computing` `serverless` `typescript` `rest-api` `microservice`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/hono-edge-starter/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/hono-edge-starter/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Framework: Hono.js](https://img.shields.io/badge/Framework-Hono.js-E36002.svg)](https://hono.dev)
 [![Runtime: Cloudflare Workers](https://img.shields.io/badge/Edge-Cloudflare%20Workers-orange.svg)](https://workers.cloudflare.com)
-[![CI Pipeline](https://github.com/MobileConduit/hono-edge-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/hono-edge-starter/actions)
+[![CI Pipeline](https://github.com/shadialhasan/hono-edge-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/hono-edge-starter/actions)
 
 Blazing fast edge REST API boilerplate architected with **Hono.js** and designed to execute within 0-ms cold-start serverless runtimes on Cloudflare Workers.
 
@@ -45,7 +45,7 @@ npm run dev
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/MobileConduit/hono-edge-starter.git
+git clone https://github.com/shadialhasan/hono-edge-starter.git
 cd hono-edge-starter
 npm install
 ```
@@ -65,7 +65,7 @@ npm test
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
