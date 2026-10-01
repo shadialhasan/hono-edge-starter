@@ -1,0 +1,18 @@
+{
+  "name": "hono-edge-starter",
+  "version": "1.0.0",
+  "description": "Ultra-fast Cloudflare Workers & Edge API Boilerplate using Hono.js",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "author": "Eng. MHD. Shadi AL-Hasan <mhd.shadi.alhasan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hono": "^4.3.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.50.0"
+  }
+}
