@@ -1,5 +1,6 @@
 # ⚡ hono-edge-starter
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/hono-edge-starter/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Framework: Hono.js](https://img.shields.io/badge/Framework-Hono.js-E36002.svg)](https://hono.dev)
 [![Runtime: Cloudflare Workers](https://img.shields.io/badge/Edge-Cloudflare%20Workers-orange.svg)](https://workers.cloudflare.com)
@@ -35,6 +36,24 @@ npm run dev
 ```
 
 ---
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/hono-edge-starter.git
+cd hono-edge-starter
+npm install
+```
+
+---
+
+## 🧪 Running Automated Tests
+
+```bash
+npm test
+```
 
 ## 👤 Author & Maintainer
 
