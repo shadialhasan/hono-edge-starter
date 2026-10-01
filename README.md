@@ -1,5 +1,8 @@
 # ⚡ hono-edge-starter
 
+> **Topics:** `hono` `cloudflare-workers` `edge-computing` `serverless` `typescript` `rest-api` `microservice`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/hono-edge-starter/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Framework: Hono.js](https://img.shields.io/badge/Framework-Hono.js-E36002.svg)](https://hono.dev)

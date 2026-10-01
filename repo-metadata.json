@@ -1,0 +1,12 @@
+{
+  "description": "Blazing fast edge REST API boilerplate architected with Hono.js for Cloudflare Workers (0-ms cold start)",
+  "topics": [
+    "hono",
+    "cloudflare-workers",
+    "edge-computing",
+    "serverless",
+    "typescript",
+    "rest-api",
+    "microservice"
+  ]
+}
